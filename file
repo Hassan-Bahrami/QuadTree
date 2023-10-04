@@ -1,0 +1,63 @@
+    product: HP EliteBook 845 G7 Notebook PC (8VZ07AV)
+       product: 8760
+             product: 16ATF2G64HZ-3G2J1
+             product: Unknown
+          product: AMD Ryzen 7 PRO 4750U with Radeon Graphics
+          product: Renoir/Cezanne Root Complex
+             product: Renoir/Cezanne IOMMU
+             product: Renoir/Cezanne PCIe GPP Bridge
+                product: Wi-Fi 6 AX200
+             product: Renoir/Cezanne PCIe GPP Bridge
+                product: SAMSUNG MZVLB512HBJQ-000H1
+             product: Renoir Internal PCIe GPP Bridge to Bus
+                product: Renoir
+                product: Renoir Radeon High Definition Audio Controller
+                   product: HD-Audio Generic HDMI/DP,pcm=3
+                   product: HD-Audio Generic HDMI/DP,pcm=7
+                   product: HD-Audio Generic HDMI/DP,pcm=8
+                   product: HD-Audio Generic HDMI/DP,pcm=9
+                product: Family 17h (Models 10h-1fh) Platform Security Processor
+                product: Renoir/Cezanne USB 3.1
+                   product: xHCI Host Controller
+                      product: Dell Computer Corp Dell Universal Receiver System Control
+                      product: AX200 Bluetooth
+                   product: xHCI Host Controller
+                product: Renoir/Cezanne USB 3.1
+                   product: xHCI Host Controller
+                      product: HP HD Camera: HP HD Camera
+                   product: xHCI Host Controller
+                product: Raven/Raven2/FireFlight/Renoir Audio Processor
+                product: Family 17h (Models 10h-1fh) HD Audio Controller
+                   product: HD-Audio Generic Mic
+                   product: HD-Audio Generic Headphone
+             product: FCH SMBus Controller
+             product: FCH LPC Bridge
+                product: PnP device PNP0b00
+                product: PnP device PNP0c02
+                product: PnP device PNP0c01
+                product: PnP device HPQ8002
+                product: PnP device PNP0c02
+                product: PnP device PNP0c02
+          product: Renoir PCIe Dummy Host Bridge
+          product: Renoir PCIe Dummy Host Bridge
+          product: Renoir PCIe Dummy Host Bridge
+          product: Renoir Device 24: Function 0
+          product: Renoir Device 24: Function 1
+          product: Renoir Device 24: Function 2
+          product: Renoir Device 24: Function 3
+          product: Renoir Device 24: Function 4
+          product: Renoir Device 24: Function 5
+          product: Renoir Device 24: Function 6
+          product: Renoir Device 24: Function 7
+       product: CC03053XL
+       product: Power Button
+       product: Sleep Button
+       product: Wireless hotkeys
+       product: HP WMI hotkeys
+       product: SYNA30B0:00 06CB:CE08
+       product: SYNA30B0:00 06CB:CE08
+       product: SYNA30B0:00 06CB:CE08
+       product: Lid Switch
+       product: Power Button
+       product: AT Translated Set 2 keyboard
+       product: Video Bus

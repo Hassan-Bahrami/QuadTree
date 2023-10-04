@@ -1,0 +1,11 @@
+### ARAP notes
+
+In the context of the ARAP method described in the libigl tutorial, the replacement of the X coordinates with the vector [w_1(x), w_2(x), ..., w_m(x)] is done to represent the linear blend skinning deformations in a more efficient and compact manner.
+
+In the ARAP method, the goal is to find a set of transformations that deform the mesh in a way that is as rigid as possible. Instead of directly optimizing the vertex positions (represented by X coordinates) for each vertex in the mesh, the method takes advantage of the fact that the deformations can be approximated by a linear combination of a small number of basis transformations.
+
+These basis transformations are often associated with skeletal bones or joints in character animation. The linear blend skinning approach represents the deformation of each vertex as a combination of the transformations of the associated bones or joints, weighted by the influence of these bones or joints on the vertex. The weights w_1(x), w_2(x), ..., w_m(x) correspond to the influence of the m basis transformations on vertex x.
+
+By replacing the X coordinates with the vector [w_1(x), w_2(x), ..., w_m(x)], the ARAP energies and optimization can be formulated in terms of the low-dimensional subspace of the linear blend skinning deformations. The number m represents the number of basis transformations (also known as handles) used to represent the deformations. This number is typically much smaller than the total number of vertices in the mesh (n), resulting in a more compact representation of the deformations and improved computational efficiency.
+
+In summary, the replacement of X coordinates with [w_1(x), w_2(x), ..., w_m(x)] allows the ARAP method to work with a reduced set of basis transformations that capture the deformations of the mesh, resulting in a more efficient and compact representation of the deformations. The number m represents the number of basis transformations used in the linear blend skinning representation.
