@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/QuadTree.dir/src/main.cpp.o CMakeFiles/QuadTree.dir/src/QuadTree.cpp.o CMakeFiles/QuadTree.dir/src/Point.cpp.o CMakeFiles/QuadTree.dir/src/Rectangle.cpp.o CMakeFiles/QuadTree.dir/src/Circle.cpp.o -o QuadTree 

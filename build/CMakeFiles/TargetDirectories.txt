@@ -1,0 +1,3 @@
+/home/hassan/Projects/ISTA/QuadTree/build/CMakeFiles/QuadTree.dir
+/home/hassan/Projects/ISTA/QuadTree/build/CMakeFiles/edit_cache.dir
+/home/hassan/Projects/ISTA/QuadTree/build/CMakeFiles/rebuild_cache.dir
