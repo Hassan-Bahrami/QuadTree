@@ -1,5 +1,5 @@
-# QuadTree Project
-This project implements a QuadTree data structure in C++ for spatial indexing and nearest neighbor search.
+# QuadTree
+This project implements a QuadTree data structure in C++ for spatial indexing and nearest neighbour search.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +10,7 @@ This project implements a QuadTree data structure in C++ for spatial indexing an
 
 ## Introduction
 
-A QuadTree is a tree data structure used to partition a 2D space into regions (quadrants), recursively subdividing it into four quadrants or nodes until each node contains zero or a specified number of points. It is particularly useful for spatial indexing, collision detection, and nearest neighbor search.
+A QuadTree is a tree data structure used to partition a 2D space into regions (quadrants), recursively subdividing it into four quadrants or nodes until each node contains zero or a specified number of points. It is particularly useful for spatial indexing, collision detection, and nearest neighbour search.
 
 This project provides a basic implementation of a QuadTree with the following functionalities:
 - Insertion of points
@@ -23,7 +23,7 @@ This project provides a basic implementation of a QuadTree with the following fu
 - **Insertion**: Insert points into the QuadTree structure.
 - **Query**: Retrieve points within a specified rectangular range.
 - **Deletion**: Remove points within a specified rectangular range.
-- **Nearest Neighbor Search**: Find k-nearest neighbors to a given point.
+- **Nearest Neighbor Search**: Find k-nearest neighbours to a given point.
 
 ## Dependencies
 
